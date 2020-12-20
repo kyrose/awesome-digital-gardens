@@ -10,6 +10,7 @@ _In no particular order:_
 - [Andy Matuschak's Working Notes](https://notes.andymatuschak.org/About_these_notes) - the man, the myth, the legend, the digital garden every other digital gardener has been inspired by.
 - [Ian Jones's Digital Garden](https://www.ianjones.us/digital-garden) - the layer between Jones's raw notes and the essays he publishes.
 - [Brendan Schlagel's Personal Canon](https://www.brendanschlagel.com/canon/) - not really a digital garden, but a collection of books, music, art, science, and other sundries that they keep returning to.
+- [Enjoyment Work](https://enjoyment-work.netlify.app/) ([repo here](https://github.com/brennanbrown/enjoyment-work)) - this digital garden is packed with stuff, has extremely Brutalist web vibes and I love it. Created by [Brennan Brown](https://github.com/brennanbrown) as a catalog of his notes, a daily progress journal, and a blog (_"...the final step for process of smart note-taking."_ 
 
 ## How to create a digital garden of your own
 _Guides, blog posts, tips, and tricks for creating your own garden._
