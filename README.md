@@ -18,10 +18,11 @@ _Guides, blog posts, tips, and tricks for creating your own garden._
 - [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) - from Tom Critchlow
 - [_🌱 My blog is a digital garden, not a blog_](https://joelhooks.com/digital-garden) - an introduction to the concept of digital gardens.
 
-## Tools
+## Tools & templates
 _Site themes and other tools for building your garden._
 
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain)
+- [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden)
 - [fuse.js](https://fusejs.io/)- a powerful, lightweight fuzzy-search library, with zero dependencies.
 
 ## Misc.
