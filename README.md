@@ -14,6 +14,7 @@ _In no particular order:_
 - [Maggie Appleton's Garden](https://maggieappleton.com/garden) - an open collection of notes, resources, sketches, and explorations.
 - [Andy Matuschak's Working Notes](https://notes.andymatuschak.org/About_these_notes) - the man, the myth, the legend, the digital garden every other digital gardener has been inspired by.
 - [Ian Jones's Digital Garden](https://www.ianjones.us/digital-garden) - the layer between Jones's raw notes and the essays he publishes.
+- [allenleein/brains](https://github.com/allenleein/brains)
 
 ## How to create a digital garden of your own
 _Guides, blog posts, tips, and tricks for creating your own garden._
