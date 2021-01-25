@@ -46,3 +46,4 @@ _Complementary projects to motivate you._
 
 ## TODO
 - [ ] Organize the Gardening Tools section into categories
+- [ ] Denote what tools I use
