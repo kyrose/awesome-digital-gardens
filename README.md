@@ -29,6 +29,7 @@ _Guides, blog posts, tips, and tricks for creating your own garden._
 - [Semantic MediaWiki (SMW)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - an extension to MediaWiki and framework for turning a wiki into a knowledge management system. See also: [Semantic Web](https://www.semantic-mediawiki.org/wiki/Special:MyLanguage/Semantic_Web)
 - [are.na](https://are.na/) - Platform for building personal knowledge libraries. Somewhat social, has a browser plugin for saving webpages, excerpts, and images to your channels.
 - [Hypothes.is](https://web.hypothes.is/) - Browser extension for adding commentary everywhere on the web
+- [Logseq](https://logseq.com/) - open-source outliner that works on top of local plain-text Markdown and Org-mode files
 
 ### In development
 These tools are actively being developed and in beta; they all look super exciting.
