@@ -36,6 +36,7 @@ These tools are actively being developed and in beta; they all look super exciti
 - [\_Prtcl](https://www.uprtcl.io/) (repo: [uprtcl/spec](https://github.com/uprtcl/spec))
 - [mymind](https://mymind.com/)
 - [digital-garden](https://github.com/rust-adventure/digital-garden) - Content authoring tool with bidirectional links and a built-in markdown renderer written in Rust.
+- [karma.fm](https://www.karma.fm/) - a hosted digital garden with bidirectional links and a WYSIWYG editor.
 
 ## Misc.
 _Complementary projects to motivate you._
