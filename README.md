@@ -16,6 +16,7 @@ _In no particular order:_
 - [Ian Jones's Digital Garden](https://www.ianjones.us/digital-garden) - the layer between Jones's raw notes and the essays he publishes.
 - [allenleein/brains](https://github.com/allenleein/brains)
 - [The Refined Mind](https://refinedmind.co/) - The public workspace of Mike Tannenbaum, exploring life amid the modern challenges the Internet created.
+- [BJJGraph](https://bjjgraph.org) ([repo here](https://github.com/diogoseca/bjjgraph)) - a digital garden of Brazilian jiu-jitsu: about 4,600 wikilinked notes on positions and the techniques between them, with an interactive graph on top you can play through.
 
 ## How to create a digital garden of your own
 _Guides, blog posts, tips, and tricks for creating your own garden._
